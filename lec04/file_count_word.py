@@ -3,23 +3,17 @@
 
 
 import sys
-from collections import Counter
+from file_read_by_word import read_words
 
 def read_individuals(file):
     """returns list of words from file"""
-    try:
-        with open(file) as f:
-            w_counter = Counter
-            words = f.read().split()
-            individuals = [ind for ind in words if w_counter(words).most_common() == 1]
-    except FileNotFoundError:
-        print("file wasn't found!")
-        exit()
+    words = read_words(file)
+    individuals = [i for i in words if words.count(i) == 1]
+    #individuals = [ind for ind in words if w_counter(ind).most_common() == 1]
     return individuals
 
 
 if __name__ == "__main__":
-    sys.argv.append("test.txt")
     if len(sys.argv) != 2:
         print(f'Bad usage: {__file__} <name of file>')
         exit()
