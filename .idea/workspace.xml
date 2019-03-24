@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6bdec79-b476-4952-99e2-03b626376d69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lec04/file_count_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec04/file_read_by_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec04/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec04/add_user.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,57 +14,26 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_lectures$select_sort.coverage" NAME="select_sort Coverage Results" MODIFIED="1552161862337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec03" />
-    <SUITE FILE_PATH="coverage/python_lectures$file_count_word.coverage" NAME="file_count_word Coverage Results" MODIFIED="1552426732436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec04" />
+    <SUITE FILE_PATH="coverage/python_lectures$flush_left.coverage" NAME="flush_left Coverage Results" MODIFIED="1552848289436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec04" />
+    <SUITE FILE_PATH="coverage/python_lectures$file_count_word.coverage" NAME="file_count_word Coverage Results" MODIFIED="1552845993907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec04" />
+    <SUITE FILE_PATH="coverage/python_lectures$add_user.coverage" NAME="add_user Coverage Results" MODIFIED="1553464654358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec04" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec04/file_read_by_word.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec04/file_count_word.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-              <folding>
-                <element signature="e#91#101#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lec03/calc_post.py">
+        <entry file="file://$PROJECT_DIR$/lec04/add_user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lec04/passwd">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="422">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec03/char_counter_multi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#67#77#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec04/test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="82" selection-start-column="82" selection-end-column="82" />
+              <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -84,6 +52,12 @@
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="96d38db4-d76c-46b9-beff-e1df3182bd13" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lec04/add_user.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -92,8 +66,11 @@
         <option value="$PROJECT_DIR$/lec03/char_counter_multi.py" />
         <option value="$PROJECT_DIR$/lec03/select_sort.py" />
         <option value="$PROJECT_DIR$/lec04/file_read_by_word.py" />
-        <option value="$PROJECT_DIR$/lec04/test.txt" />
         <option value="$PROJECT_DIR$/lec04/file_count_word.py" />
+        <option value="$PROJECT_DIR$/lec04/test.txt" />
+        <option value="$PROJECT_DIR$/lec04/flush_left.py" />
+        <option value="$PROJECT_DIR$/lec04/passwd" />
+        <option value="$PROJECT_DIR$/lec04/add_user.py" />
       </list>
     </option>
   </component>
@@ -111,6 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,7 +110,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,7 +117,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -159,7 +136,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.file_count_word">
+  <component name="RunManager" selected="Python.add_user">
+    <configuration name="add_user" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_lectures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec04/add_user.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="file_count_word" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_lectures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,7 +173,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec04/file_count_word.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="PARAMETERS" value="test.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flush_left" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_lectures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec04/flush_left.py" />
+      <option name="PARAMETERS" value="&quot;test.txt&quot; 12 &quot;t.txt&quot;" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -204,8 +225,16 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.file_count_word" />
+      <item itemvalue="Python.select_sort" />
+      <item itemvalue="Python.flush_left" />
+      <item itemvalue="Python.add_user" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.add_user" />
+        <item itemvalue="Python.flush_left" />
         <item itemvalue="Python.file_count_word" />
         <item itemvalue="Python.select_sort" />
       </list>
@@ -229,7 +258,11 @@
       <workItem from="1552160065492" duration="1887000" />
       <workItem from="1552162014900" duration="599000" />
       <workItem from="1552417441376" duration="3665000" />
-      <workItem from="1552431452553" duration="18000" />
+      <workItem from="1552431452553" duration="130000" />
+      <workItem from="1552499768302" duration="151000" />
+      <workItem from="1552844447119" duration="4883000" />
+      <workItem from="1553203321580" duration="1785000" />
+      <workItem from="1553446755871" duration="5855000" />
     </task>
     <task id="LOCAL-00001" summary="lec03">
       <created>1551821629518</created>
@@ -238,11 +271,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551821629518</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lec04 part">
+      <created>1552431561055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552431561055</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lec04 rest">
+      <created>1552854685634</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552854685634</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15415000" />
+    <option name="totallyTimeSpent" value="28201000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -255,23 +302,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1600" height="871" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49501" visible="true" weight="0.27799228" />
-      <window_info id="Structure" order="1" sideWeight="0.50499004" side_tool="true" visible="true" weight="0.27799228" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49501" visible="true" weight="0.16666667" />
+      <window_info id="Structure" order="1" sideWeight="0.50499004" side_tool="true" weight="0.27799228" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892906" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993565" weight="0.32931727" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.84942085" weight="0.5716198" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32931727" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4980695" weight="0.32931727" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006435" side_tool="true" weight="0.40829986" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4993565" weight="0.40829986" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32931727" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.503861" side_tool="true" visible="true" weight="0.25970548" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.496139" visible="true" weight="0.25970548" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4993565" weight="0.32931727" />
+      <window_info anchor="right" x="0" y="0" width="350" height="671" id="Documentation" side_tool="true" weight="0.32947233" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -327,7 +376,9 @@
       <path value="$PROJECT_DIR$/lec03" />
     </ignored-roots>
     <MESSAGE value="lec03" />
-    <option name="LAST_COMMIT_MESSAGE" value="lec03" />
+    <MESSAGE value="lec04 part" />
+    <MESSAGE value="lec04 rest" />
+    <option name="LAST_COMMIT_MESSAGE" value="lec04 rest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -339,7 +390,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/lec04/file_count_word.py</url>
-          <line>22</line>
+          <line>16</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -347,18 +398,52 @@
           <line>2</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lec04/flush_left.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lec04/add_user.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="f.read()" language="Python" />
+        <watch expression="sys.argv" language="Python" />
+        <watch expression="p" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
+        <expression-string>p</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sys.argv</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>f.read()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>sys.argv[-1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>w_counter(ind).most_common()</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -367,16 +452,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lec02/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lec03/char_counter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#67#77#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lec03/select_sort.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -392,26 +467,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lec04/file_read_by_word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lec04/file_count_word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="e#91#101#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/lec03/pcalc.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lec03/char_counter_multi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="15">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="e#67#77#0" expanded="true" />
@@ -419,17 +480,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lec03/multy_better.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec04/file_count_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#91#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec03/char_counter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#67#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec04/file_read_by_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec04/flush_left.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lec04/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="82" selection-start-column="82" selection-end-column="82" />
+        <state relative-caret-position="150">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lec03/calc_post.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
+        <state relative-caret-position="600">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec04/passwd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec04/add_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
