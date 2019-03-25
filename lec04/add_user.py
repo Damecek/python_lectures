@@ -28,11 +28,12 @@ if __name__ == '__main__':
         if not search(0, new[2], p):
             break
     home = input(f'i offer you this home: /home/{new[0]}, agree? y/n ')
-    new[5] = input('enter home: ') if home == 'n' else 'home/' + new[0]
+    new[5] = input('enter home: ') if home == 'n' else '/home/' + new[0]
 
     bash = input('i offer you this bash: /bin/bash, agree? y/n ')
     new[6] = (input('enter bash: ') if bash == 'n' else 'bin/bash') + '\n'
-    #TODO
+
     with open('passwd', 'a') as f:
-        f.write(new)
-    print(new)
+        for j in range(7):
+            f.write(str(new[j]))
+            if j != 6: f.write(':')
