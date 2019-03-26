@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6bdec79-b476-4952-99e2-03b626376d69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/adam.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec05/cut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec05/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec05/upper_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec06/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec06/sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec04/add_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec04/add_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec04/passwd" beforeDir="false" afterPath="$PROJECT_DIR$/lec04/passwd" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +45,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec05/cut.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="421">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lec06/sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lec06/palindrome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -112,6 +126,8 @@
         <option value="$PROJECT_DIR$/lec05/upper_file.py" />
         <option value="$PROJECT_DIR$/lec05/test.txt" />
         <option value="$PROJECT_DIR$/lec05/cut.py" />
+        <option value="$PROJECT_DIR$/lec06/sum.py" />
+        <option value="$PROJECT_DIR$/lec06/palindrome.py" />
       </list>
     </option>
   </component>
@@ -129,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,12 +155,13 @@
             <path>
               <item name="python_lectures" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_lectures" type="462c0819:PsiDirectoryNode" />
-              <item name="lec05" type="462c0819:PsiDirectoryNode" />
+              <item name="lec06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,7 +169,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -327,7 +343,8 @@
       <workItem from="1552844447119" duration="4883000" />
       <workItem from="1553203321580" duration="1785000" />
       <workItem from="1553446755871" duration="5895000" />
-      <workItem from="1553543175538" duration="5712000" />
+      <workItem from="1553543175538" duration="6337000" />
+      <workItem from="1553622388409" duration="2333000" />
     </task>
     <task id="LOCAL-00001" summary="lec03">
       <created>1551821629518</created>
@@ -357,11 +374,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553465950184</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lec04 passwd rest, lec05 part">
+      <created>1553548908974</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553548908974</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33953000" />
+    <option name="totallyTimeSpent" value="36911000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -374,9 +398,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1600" height="871" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49501" visible="true" weight="0.16859716" />
-      <window_info id="Structure" order="1" sideWeight="0.50499004" side_tool="true" weight="0.27799228" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49301398" visible="true" weight="0.17052767" />
+      <window_info id="Structure" order="1" sideWeight="0.506986" side_tool="true" weight="0.17052767" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -386,15 +411,15 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32931727" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.494852" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.493565" visible="true" weight="0.32931727" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.505148" side_tool="true" visible="true" weight="0.32931727" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4903475" weight="0.25970548" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.506435" side_tool="true" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.48970398" weight="0.25970548" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.497426" weight="0.32931727" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" auto_hide="true" id="SciView" order="3" weight="0.32947233" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32947233" />
       <window_info anchor="right" id="Database" order="4" weight="0.32947233" />
       <window_info anchor="right" x="0" y="0" width="350" height="671" id="Documentation" order="5" side_tool="true" weight="0.32947233" />
     </layout>
@@ -450,7 +475,8 @@
     <MESSAGE value="lec04 part" />
     <MESSAGE value="lec04 rest" />
     <MESSAGE value="lec04 passwd" />
-    <option name="LAST_COMMIT_MESSAGE" value="lec04 passwd" />
+    <MESSAGE value="lec04 passwd rest, lec05 part" />
+    <option name="LAST_COMMIT_MESSAGE" value="lec04 passwd rest, lec05 part" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -620,13 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lec05/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lec04/add_user.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -641,10 +660,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lec05/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lec05/cut.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="421">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec06/sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec06/palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
         </state>
       </provider>
     </entry>
