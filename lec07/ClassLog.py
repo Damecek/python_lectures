@@ -1,21 +1,20 @@
 #!/usr/bin/env python3
 """implements log class"""
-import sys
+from datetime import datetime
 
 
 class Log:
-    printers = [sys.stdout]
-
-    def __init__(self, name):
+    def __init__(self, name, **kwargs):
         self.lName = name
         self.lvl = 0
-        self.msg = [(0, 'Init of log\n')]
+        self.msg = [(0, 'Init of log\n', datetime.now()), kwargs]
+        self.printers = []
 
     def set_level(self, lvl):
         self.lvl = lvl
 
-    def log(self, lvl, msg):
-        self.msg.append((lvl, msg + '\n'))
+    def log(self, lvl, msg, **kwargs):
+        self.msg.append((lvl, msg + '\n', datetime.now(), kwargs))
 
     def add_printer(self, printer):
         self.printers.append(printer)
@@ -24,21 +23,18 @@ class Log:
         for msg in self.msg:
             if msg[0] >= self.lvl:
                 for printer in self.printers:
-                    printer.write(str(msg[0]) + ' lvl: ' + msg[1])
+                    printer.print(msg[1])
+                    # printer.write(str(msg[0]) + ' lvl: ' + msg[1])
 
 
-logger = Log('test')
-logger.log_print()
-logger.set_level(3)
-logger.log_print()
-logger.log(1, 'sdfsdfDS')
-logger.log(2, 'sdfsdfDS')
-logger.log_print()
-logger.set_level(2)
-logger.log_print()
-logger.log(5, 'sdfsd')
-logger.set_level(1)
-logger.log_print()
-logger.add_printer(sys.stderr)
-logger.log_print()
+class Printer:
+    def __init__(self):
+        self.lvl = False
+        self.date = False
 
+    def print(self, log):
+        if self.lvl:
+            print(log[0] + ": ")
+        if self.date:
+            print(log[2] + ": ")
+        print(log[1])
