@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6bdec79-b476-4952-99e2-03b626376d69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lec06/fib_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec06/my_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec07 - lec09/Logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lec07 - lec09/TextProc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec07/ClassLog.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec07/ClassLog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec07/ClassLog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec07/ClassRectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec07 - lec09/ClassRectangle.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +18,19 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_lectures$pass_gen.coverage" NAME="pass_gen Coverage Results" MODIFIED="1553727559914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec06" />
-    <SUITE FILE_PATH="coverage/python_lectures$select_sort.coverage" NAME="select_sort Coverage Results" MODIFIED="1552161862337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec03" />
+    <SUITE FILE_PATH="coverage/python_lectures$Logger.coverage" NAME="Logger Coverage Results" MODIFIED="1555783128934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec07" />
+    <SUITE FILE_PATH="coverage/python_lectures$ClassRectangle.coverage" NAME="ClassRectangle Coverage Results" MODIFIED="1555858029855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec07 - lec09" />
+    <SUITE FILE_PATH="coverage/python_lectures$ClassLoggerTest.coverage" NAME="ClassLoggerTest Coverage Results" MODIFIED="1555786325579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec07" />
     <SUITE FILE_PATH="coverage/python_lectures$flush_left.coverage" NAME="flush_left Coverage Results" MODIFIED="1552848289436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec04" />
+    <SUITE FILE_PATH="coverage/python_lectures$TextProc.coverage" NAME="TextProc Coverage Results" MODIFIED="1555832880241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec07" />
+    <SUITE FILE_PATH="coverage/python_lectures$my_range.coverage" NAME="my_range Coverage Results" MODIFIED="1555856957654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec06" />
+    <SUITE FILE_PATH="coverage/python_lectures$upper_file.coverage" NAME="upper_file Coverage Results" MODIFIED="1553544830627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec05" />
+    <SUITE FILE_PATH="coverage/python_lectures$fib_gen.coverage" NAME="fib_gen Coverage Results" MODIFIED="1555856507109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec06" />
+    <SUITE FILE_PATH="coverage/python_lectures$select_sort.coverage" NAME="select_sort Coverage Results" MODIFIED="1552161862337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec03" />
     <SUITE FILE_PATH="coverage/python_lectures$cut.coverage" NAME="cut Coverage Results" MODIFIED="1553548524272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec05" />
+    <SUITE FILE_PATH="coverage/python_lectures$sad.coverage" NAME="sad Coverage Results" MODIFIED="1555609851969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec07" />
     <SUITE FILE_PATH="coverage/python_lectures$file_count_word.coverage" NAME="file_count_word Coverage Results" MODIFIED="1552845993907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec04" />
     <SUITE FILE_PATH="coverage/python_lectures$add_user.coverage" NAME="add_user Coverage Results" MODIFIED="1553464654358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec04" />
-    <SUITE FILE_PATH="coverage/python_lectures$upper_file.coverage" NAME="upper_file Coverage Results" MODIFIED="1553544830627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lec05" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -45,29 +57,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec07/ClassRectangle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lec07/ClassLog.py">
+        <entry file="file://$PROJECT_DIR$/lec07 - lec09/ClassRectangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+            <state relative-caret-position="361">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec06/my_map.py">
+        <entry file="file://$PROJECT_DIR$/lec06/fib_gen.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="255">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lec06/my_range.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -80,6 +92,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>time</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -117,6 +134,16 @@
         <option value="$PROJECT_DIR$/lec07/ClassPrinter.py" />
         <option value="$PROJECT_DIR$/lec07/ClassFormater.py" />
         <option value="$PROJECT_DIR$/lec07/ClassLog.py" />
+        <option value="$PROJECT_DIR$/lec07/ClassLogger.py" />
+        <option value="$PROJECT_DIR$/lec07/__init__.py" />
+        <option value="$PROJECT_DIR$/lec07/ClassLoggerTest.py" />
+        <option value="$PROJECT_DIR$/lec07/sad.py" />
+        <option value="$PROJECT_DIR$/lec07/LoggerTest.py" />
+        <option value="$PROJECT_DIR$/lec07/Logger.py" />
+        <option value="$PROJECT_DIR$/lec07/TextProc.py" />
+        <option value="$PROJECT_DIR$/lec06/fib_gen.py" />
+        <option value="$PROJECT_DIR$/lec06/my_range.py" />
+        <option value="$PROJECT_DIR$/lec07 - lec09/ClassRectangle.py" />
       </list>
     </option>
   </component>
@@ -133,7 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,12 +170,18 @@
             <path>
               <item name="python_lectures" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_lectures" type="462c0819:PsiDirectoryNode" />
-              <item name="lec07" type="462c0819:PsiDirectoryNode" />
+              <item name="lec06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_lectures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_lectures" type="462c0819:PsiDirectoryNode" />
+              <item name="lec07 - lec09" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,6 +189,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -180,8 +213,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pass_gen">
-    <configuration name="add_user" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ClassRectangle">
+    <configuration name="ClassLoggerTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_lectures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,12 +222,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec04/add_user.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec07/LoggerTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cut" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ClassRectangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_lectures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,13 +244,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec07 - lec09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec05/cut.py" />
-      <option name="PARAMETERS" value="-d , -f -2" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec07 - lec09/ClassRectangle.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -225,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="flush_left" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TextProc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_lectures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,13 +266,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec04/flush_left.py" />
-      <option name="PARAMETERS" value="&quot;test.txt&quot; 12 &quot;t.txt&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec07/TextProc.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -247,7 +280,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pass_gen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fib_gen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_lectures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,8 +293,8 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec06/pass_gen.py" />
-      <option name="PARAMETERS" value="10" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec06/fib_gen.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -269,7 +302,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="upper_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="my_range" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_lectures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,13 +310,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lec06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec05/upper_file.py" />
-      <option name="PARAMETERS" value="test.txt" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec06/my_range.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -292,19 +325,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.flush_left" />
-      <item itemvalue="Python.add_user" />
-      <item itemvalue="Python.upper_file" />
-      <item itemvalue="Python.cut" />
-      <item itemvalue="Python.pass_gen" />
+      <item itemvalue="Python.ClassLoggerTest" />
+      <item itemvalue="Python.TextProc" />
+      <item itemvalue="Python.fib_gen" />
+      <item itemvalue="Python.my_range" />
+      <item itemvalue="Python.ClassRectangle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pass_gen" />
-        <item itemvalue="Python.cut" />
-        <item itemvalue="Python.upper_file" />
-        <item itemvalue="Python.add_user" />
-        <item itemvalue="Python.flush_left" />
+        <item itemvalue="Python.ClassRectangle" />
+        <item itemvalue="Python.my_range" />
+        <item itemvalue="Python.fib_gen" />
+        <item itemvalue="Python.TextProc" />
+        <item itemvalue="Python.ClassLoggerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +369,10 @@
       <workItem from="1553724304674" duration="3609000" />
       <workItem from="1553881209081" duration="2050000" />
       <workItem from="1554223555910" duration="3501000" />
-      <workItem from="1555362374857" duration="2124000" />
+      <workItem from="1555362374857" duration="2222000" />
+      <workItem from="1555602796805" duration="16966000" />
+      <workItem from="1557314000985" duration="19000" />
+      <workItem from="1557318406426" duration="282000" />
     </task>
     <task id="LOCAL-00001" summary="lec03">
       <created>1551821629518</created>
@@ -394,11 +430,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554272549009</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lec07">
+      <created>1555364533564</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555364533564</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48226000" />
+    <option name="totallyTimeSpent" value="65591000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -411,9 +454,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1600" height="871" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49301398" visible="true" weight="0.17953669" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49301398" visible="true" weight="0.18725869" />
       <window_info id="Structure" order="1" sideWeight="0.506986" side_tool="true" weight="0.17052767" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -424,9 +466,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32931727" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4903475" visible="true" weight="0.32931727" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.48970398" visible="true" weight="0.32931727" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5096525" side_tool="true" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.510296" side_tool="true" weight="0.7909968" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.48713" weight="0.25970548" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.497426" weight="0.32931727" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -491,7 +533,8 @@
     <MESSAGE value="lec04 passwd rest, lec05 part" />
     <MESSAGE value="lec06 part" />
     <MESSAGE value="lec05 my_map&#10;lec07 part" />
-    <option name="LAST_COMMIT_MESSAGE" value="lec05 my_map&#10;lec07 part" />
+    <MESSAGE value="lec07" />
+    <option name="LAST_COMMIT_MESSAGE" value="lec07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -541,11 +584,41 @@
           <line>13</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lec07 - lec09/sad.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lec07 - lec09/Logger.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lec07 - lec09/TextProc.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lec07 - lec09/TextProc.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>(datetime.now() - msg.time)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>datetime.now()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>p</expression-string>
         <language-id>Python</language-id>
@@ -664,13 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lec04/add_user.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -692,13 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lec05/upper_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lec05/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -713,27 +772,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lec06/pass_gen.py">
+    <entry file="file://$PROJECT_DIR$/lec07/ClassMatrix.py" />
+    <entry file="file://$PROJECT_DIR$/lec07/ClassPrinter.py" />
+    <entry file="file://$PROJECT_DIR$/lec07/ClassFormater.py" />
+    <entry file="file://$PROJECT_DIR$/lec05/upper_file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="180">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lec07/ClassRectangle.py">
+    <entry file="file://$PROJECT_DIR$/lec07/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/lec07/LoggerTest.py" />
+    <entry file="file://$PROJECT_DIR$/lec07 - lec09/Logger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="-465">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lec07/ClassMatrix.py">
+    <entry file="file://$PROJECT_DIR$/lec07 - lec09/TextProc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="286">
+          <caret line="70" lean-forward="true" selection-end-line="75" />
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec07 - lec09/sad.py" />
     <entry file="file://$PROJECT_DIR$/lec06/my_map.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -741,24 +813,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lec07/ClassPrinter.py">
+    <entry file="file://$PROJECT_DIR$/lec06/pass_gen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lec07/ClassFormater.py">
+    <entry file="file://$PROJECT_DIR$/lec06/fib_gen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="255">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lec07/ClassLog.py">
+    <entry file="file://$PROJECT_DIR$/lec06/my_range.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec07 - lec09/ClassRectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
