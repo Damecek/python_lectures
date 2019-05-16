@@ -32,9 +32,9 @@ if __name__ == "__main__":
             elif len(stack) > 1:
                 stack.append(operation(stack.pop(), stack.pop(), i))
                 if stack[len(stack) - 1] == '':
-                    print("dividing by 0 !")
+                    print("Zero division")
                     exit(0)
             else:
-                print("something went wrong!")
+                print("Malformed expression")
                 exit()
         print(stack.pop())
